@@ -1,0 +1,157 @@
+﻿@model PartyInvitationManager.Models.ViewModels.PartyDetailsViewModel
+
+@{
+    ViewData["Title"] = "Party Details";
+}
+
+<h1>@Model.Description</h1>
+
+<div class="row mb-4">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h4>Party Details</h4>
+            </div>
+            <div class="card-body">
+                <dl class="row">
+                    <dt class="col-sm-4">Description:</dt>
+                    <dd class="col-sm-8">@Model.Description</dd>
+
+                    <dt class="col-sm-4">Event Date:</dt>
+                    <dd class="col-sm-8">@Model.EventDate.ToLongDateString()</dd>
+
+                    <dt class="col-sm-4">Location:</dt>
+                    <dd class="col-sm-8">@Model.Location</dd>
+                </dl>
+                <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Edit Party</a>
+                <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h4>Invitation Statistics</h4>
+            </div>
+            <div class="card-body">
+                <dl class="row">
+                    <dt class="col-sm-8">Total Invitations:</dt>
+                    <dd class="col-sm-4">@Model.TotalInvitations</dd>
+
+                    <dt class="col-sm-8">Invitations Not Sent:</dt>
+                    <dd class="col-sm-4">@Model.NotSentCount</dd>
+
+                    <dt class="col-sm-8">Invitations Sent (No Response):</dt>
+                    <dd class="col-sm-4">@Model.SentCount</dd>
+
+                    <dt class="col-sm-8">Attending:</dt>
+                    <dd class="col-sm-4">@Model.RespondedYesCount</dd>
+
+                    <dt class="col-sm-8">Not Attending:</dt>
+                    <dd class="col-sm-4">@Model.RespondedNoCount</dd>
+                </dl>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row mb-4">
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-header">
+                <h4>Add New Invitation</h4>
+            </div>
+            <div class="card-body">
+                <form asp-action="AddInvitation" method="post">
+                    <input type="hidden" name="PartyId" value="@Model.Id" />
+
+                    <div class="row">
+                        <div class="col-md-5">
+                            <div class="form-group">
+                                <label for="GuestName" class="control-label">Guest Name</label>
+                                <input type="text" name="GuestName" class="form-control" required />
+                            </div>
+                        </div>
+                        <div class="col-md-5">
+                            <div class="form-group">
+                                <label for="GuestEmail" class="control-label">Guest Email</label>
+                                <input type="email" name="GuestEmail" class="form-control" required />
+                            </div>
+                        </div>
+                        <div class="col-md-2 d-flex align-items-end">
+                            <button type="submit" class="btn btn-primary w-100">Add</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-header">
+                <h4>Invitations</h4>
+            </div>
+            <div class="card-body">
+                @if (Model.Invitations.Any())
+                {
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>Guest Name</th>
+                                <th>Guest Email</th>
+                                <th>Status</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var invitation in Model.Invitations)
+                            {
+                                <tr>
+                                    <td>@invitation.GuestName</td>
+                                    <td>@invitation.GuestEmail</td>
+                                    <td>
+                                        @switch (invitation.Status)
+                                        {
+                                            case PartyInvitationManager.Models.Entities.InvitationStatus.InviteNotSent:
+                                                <span class="badge bg-secondary">Not Sent</span>
+                                                break;
+                                            case PartyInvitationManager.Models.Entities.InvitationStatus.InviteSent:
+                                                <span class="badge bg-primary">Sent</span>
+                                                break;
+                                            case PartyInvitationManager.Models.Entities.InvitationStatus.RespondedYes:
+                                                <span class="badge bg-success">Attending</span>
+                                                break;
+                                            case PartyInvitationManager.Models.Entities.InvitationStatus.RespondedNo:
+                                                <span class="badge bg-danger">Not Attending</span>
+                                                break;
+                                        }
+                                    </td>
+                                    <td>
+                                        @if (invitation.Status == PartyInvitationManager.Models.Entities.InvitationStatus.InviteNotSent)
+                                        {
+                                            <form asp-action="SendInvitation" method="post" style="display: inline">
+                                                <input type="hidden" name="id" value="@invitation.Id" />
+                                                <input type="hidden" name="partyId" value="@Model.Id" />
+                                                <button type="submit" class="btn btn-sm btn-primary">Send Invitation</button>
+                                            </form>
+                                        }
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                }
+                else
+                {
+                    <div class="alert alert-info">
+                        No invitations yet. Add some guests above.
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,33 @@
+﻿@model PartyInvitationManager.Models.ViewModels.InvitationResponseViewModel
+
+@{
+    ViewData["Title"] = "Thank You";
+}
+
+<div class="row">
+    <div class="col-md-8 offset-md-2">
+        <div class="card">
+            <div class="card-header">
+                <h2 class="text-center">Thank You</h2>
+            </div>
+            <div class="card-body text-center">
+                <h4 class="mb-4">Hello @Model.GuestName!</h4>
+
+                @if (Model.WillAttend.Value)
+                {
+                    <div class="alert alert-success">
+                        <p>Thank you for confirming that you will attend <strong>@Model.PartyDescription</strong>.</p>
+                        <p>We look forward to seeing you on @Model.PartyDate.ToLongDateString() at @Model.PartyLocation.</p>
+                    </div>
+                }
+                else
+                {
+                    <div class="alert alert-info">
+                        <p>We're sorry you can't make it to <strong>@Model.PartyDescription</strong>.</p>
+                        <p>Thank you for letting us know. We hope to see you another time!</p>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>

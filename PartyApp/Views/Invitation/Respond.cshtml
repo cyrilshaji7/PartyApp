@@ -1,0 +1,30 @@
+﻿@model PartyInvitationManager.Models.ViewModels.InvitationResponseViewModel
+@{
+    ViewData["Title"] = "Invitation Response";
+}
+<div class="row">
+    <div class="col-md-8 offset-md-2">
+        <div class="card">
+            <div class="card-header">
+                <h2 class="text-center">Party Invitation</h2>
+            </div>
+            <div class="card-body">
+                <h4 class="text-center mb-4">Hello @Model.GuestName!</h4>
+                <div class="alert alert-info">
+                    <p>You are invited to <strong>@Model.PartyDescription</strong></p>
+                    <p><strong>Date:</strong> @Model.PartyDate.ToLongDateString()</p>
+                    <p><strong>Location:</strong> @Model.PartyLocation</p>
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label d-block mb-3 text-center">Will you attend?</label>
+
+                    <div class="text-center">
+                        <a href="/Invitation/AcceptInvitation/@Model.InvitationId" class="btn btn-success me-2">Yes, I'll attend</a>
+                        <a href="/Invitation/DeclineInvitation/@Model.InvitationId" class="btn btn-danger">No, I can't make it</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

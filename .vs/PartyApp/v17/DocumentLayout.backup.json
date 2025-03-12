@@ -1,0 +1,612 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cyril\\Desktop\\PartyApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|c:\\users\\cyril\\desktop\\partyapp\\partyapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|solutionrelative:partyapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|c:\\users\\cyril\\desktop\\partyapp\\partyapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|solutionrelative:partyapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|c:\\users\\cyril\\desktop\\partyapp\\partyapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|solutionrelative:partyapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|c:\\users\\cyril\\desktop\\partyapp\\partyapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|solutionrelative:partyapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|c:\\users\\cyril\\desktop\\partyapp\\partyapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|solutionrelative:partyapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|c:\\users\\cyril\\desktop\\partyapp\\partyapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|solutionrelative:partyapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|c:\\users\\cyril\\desktop\\partyapp\\partyapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|solutionrelative:partyapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|c:\\users\\cyril\\desktop\\partyapp\\partyapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|solutionrelative:partyapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|c:\\users\\cyril\\desktop\\partyapp\\partyapp\\views\\party\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|solutionrelative:partyapp\\views\\party\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|c:\\users\\cyril\\desktop\\partyapp\\partyapp\\views\\party\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|solutionrelative:partyapp\\views\\party\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|c:\\users\\cyril\\desktop\\partyapp\\partyapp\\views\\party\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|solutionrelative:partyapp\\views\\party\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|c:\\users\\cyril\\desktop\\partyapp\\partyapp\\views\\party\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|solutionrelative:partyapp\\views\\party\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|c:\\users\\cyril\\desktop\\partyapp\\partyapp\\views\\party\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|solutionrelative:partyapp\\views\\party\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|c:\\users\\cyril\\desktop\\partyapp\\partyapp\\views\\invitation\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|solutionrelative:partyapp\\views\\invitation\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|c:\\users\\cyril\\desktop\\partyapp\\partyapp\\views\\invitation\\respond.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|solutionrelative:partyapp\\views\\invitation\\respond.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|c:\\users\\cyril\\desktop\\partyapp\\partyapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|solutionrelative:partyapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|c:\\users\\cyril\\desktop\\partyapp\\partyapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|solutionrelative:partyapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|c:\\users\\cyril\\desktop\\partyapp\\partyapp\\services\\partyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|solutionrelative:partyapp\\services\\partyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|c:\\users\\cyril\\desktop\\partyapp\\partyapp\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|solutionrelative:partyapp\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|c:\\users\\cyril\\desktop\\partyapp\\partyapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|solutionrelative:partyapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|c:\\users\\cyril\\desktop\\partyapp\\partyapp\\models\\viewmodels\\partyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|solutionrelative:partyapp\\models\\viewmodels\\partyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|c:\\users\\cyril\\desktop\\partyapp\\partyapp\\models\\viewmodels\\partydetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|solutionrelative:partyapp\\models\\viewmodels\\partydetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|c:\\users\\cyril\\desktop\\partyapp\\partyapp\\models\\viewmodels\\invitationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|solutionrelative:partyapp\\models\\viewmodels\\invitationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|c:\\users\\cyril\\desktop\\partyapp\\partyapp\\models\\viewmodels\\invitationresponseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|solutionrelative:partyapp\\models\\viewmodels\\invitationresponseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|c:\\users\\cyril\\desktop\\partyapp\\partyapp\\models\\entities\\party.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|solutionrelative:partyapp\\models\\entities\\party.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|c:\\users\\cyril\\desktop\\partyapp\\partyapp\\models\\entities\\invitationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|solutionrelative:partyapp\\models\\entities\\invitationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|c:\\users\\cyril\\desktop\\partyapp\\partyapp\\models\\entities\\invitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|solutionrelative:partyapp\\models\\entities\\invitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|c:\\users\\cyril\\desktop\\partyapp\\partyapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|solutionrelative:partyapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|c:\\users\\cyril\\desktop\\partyapp\\partyapp\\controllers\\partycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|solutionrelative:partyapp\\controllers\\partycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|c:\\users\\cyril\\desktop\\partyapp\\partyapp\\controllers\\invitationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|solutionrelative:partyapp\\controllers\\invitationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|c:\\users\\cyril\\desktop\\partyapp\\partyapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|solutionrelative:partyapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|c:\\users\\cyril\\desktop\\partyapp\\partyapp\\migrations\\20250311192235_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|solutionrelative:partyapp\\migrations\\20250311192235_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|c:\\users\\cyril\\desktop\\partyapp\\partyapp\\views\\party\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|solutionrelative:partyapp\\views\\party\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|c:\\users\\cyril\\desktop\\partyapp\\partyapp\\migrations\\20250311191418_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|solutionrelative:partyapp\\migrations\\20250311191418_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|c:\\users\\cyril\\desktop\\partyapp\\partyapp\\partyapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D72F059-614D-4B10-A983-B40118656906}|PartyApp\\PartyApp.csproj|solutionrelative:partyapp\\partyapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PartyApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PartyApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T02:04:00.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "PartyApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "PartyApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T02:03:56.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "PartyApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "PartyApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T02:03:35.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250311192235_new.cs",
+              "DocumentMoniker": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Migrations\\20250311192235_new.cs",
+              "RelativeDocumentMoniker": "PartyApp\\Migrations\\20250311192235_new.cs",
+              "ToolTip": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Migrations\\20250311192235_new.cs",
+              "RelativeToolTip": "PartyApp\\Migrations\\20250311192235_new.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:22:35.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250311191418_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Migrations\\20250311191418_InitialCreate.cs",
+              "RelativeDocumentMoniker": "PartyApp\\Migrations\\20250311191418_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Migrations\\20250311191418_InitialCreate.cs",
+              "RelativeToolTip": "PartyApp\\Migrations\\20250311191418_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:14:19.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PartyApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PartyApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T19:04:41.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Views\\Party\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "PartyApp\\Views\\Party\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Views\\Party\\Edit.cshtml.cs",
+              "RelativeToolTip": "PartyApp\\Views\\Party\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:04:38.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Views\\Party\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "PartyApp\\Views\\Party\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Views\\Party\\Details.cshtml.cs",
+              "RelativeToolTip": "PartyApp\\Views\\Party\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:04:38.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "PartyApp\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "PartyApp\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T18:56:39.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "PartyApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "PartyApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:56:27.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PartyApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\appsettings.Development.json",
+              "RelativeToolTip": "PartyApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T18:55:55.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\appsettings.json",
+              "RelativeDocumentMoniker": "PartyApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\appsettings.json",
+              "RelativeToolTip": "PartyApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T18:55:53.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Program.cs",
+              "RelativeDocumentMoniker": "PartyApp\\Program.cs",
+              "ToolTip": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Program.cs",
+              "RelativeToolTip": "PartyApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:55:41.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PartyApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PartyApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T18:55:26.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Thanks.cshtml",
+              "DocumentMoniker": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Views\\Invitation\\Thanks.cshtml",
+              "RelativeDocumentMoniker": "PartyApp\\Views\\Invitation\\Thanks.cshtml",
+              "ToolTip": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Views\\Invitation\\Thanks.cshtml",
+              "RelativeToolTip": "PartyApp\\Views\\Invitation\\Thanks.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T18:55:05.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Respond.cshtml",
+              "DocumentMoniker": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Views\\Invitation\\Respond.cshtml",
+              "RelativeDocumentMoniker": "PartyApp\\Views\\Invitation\\Respond.cshtml",
+              "ToolTip": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Views\\Invitation\\Respond.cshtml",
+              "RelativeToolTip": "PartyApp\\Views\\Invitation\\Respond.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T18:54:44.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Views\\Party\\Details.cshtml",
+              "RelativeDocumentMoniker": "PartyApp\\Views\\Party\\Details.cshtml",
+              "ToolTip": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Views\\Party\\Details.cshtml",
+              "RelativeToolTip": "PartyApp\\Views\\Party\\Details.cshtml",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAuwIgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T18:53:48.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Views\\Party\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PartyApp\\Views\\Party\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Views\\Party\\Edit.cshtml",
+              "RelativeToolTip": "PartyApp\\Views\\Party\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T18:53:26.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Views\\Party\\Create.cshtml",
+              "RelativeDocumentMoniker": "PartyApp\\Views\\Party\\Create.cshtml",
+              "ToolTip": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Views\\Party\\Create.cshtml",
+              "RelativeToolTip": "PartyApp\\Views\\Party\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBwAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T18:52:41.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Views\\Party\\Index.cshtml",
+              "RelativeDocumentMoniker": "PartyApp\\Views\\Party\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Views\\Party\\Index.cshtml",
+              "RelativeToolTip": "PartyApp\\Views\\Party\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T18:51:33.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PartyApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PartyApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T18:50:56.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PartyApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PartyApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:49:22.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "InvitationController.cs",
+              "DocumentMoniker": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Controllers\\InvitationController.cs",
+              "RelativeDocumentMoniker": "PartyApp\\Controllers\\InvitationController.cs",
+              "ToolTip": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Controllers\\InvitationController.cs",
+              "RelativeToolTip": "PartyApp\\Controllers\\InvitationController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:49:02.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PartyController.cs",
+              "DocumentMoniker": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Controllers\\PartyController.cs",
+              "RelativeDocumentMoniker": "PartyApp\\Controllers\\PartyController.cs",
+              "ToolTip": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Controllers\\PartyController.cs",
+              "RelativeToolTip": "PartyApp\\Controllers\\PartyController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAwwAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:48:44.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PartyService.cs",
+              "DocumentMoniker": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Services\\PartyService.cs",
+              "RelativeDocumentMoniker": "PartyApp\\Services\\PartyService.cs",
+              "ToolTip": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Services\\PartyService.cs",
+              "RelativeToolTip": "PartyApp\\Services\\PartyService.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAgwAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:48:14.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "PartyApp\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Services\\EmailService.cs",
+              "RelativeToolTip": "PartyApp\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:47:52.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PartyApp.csproj",
+              "DocumentMoniker": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\PartyApp.csproj",
+              "RelativeDocumentMoniker": "PartyApp\\PartyApp.csproj",
+              "ToolTip": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\PartyApp.csproj",
+              "RelativeToolTip": "PartyApp\\PartyApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-11T18:47:36.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "InvitationResponseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Models\\ViewModels\\InvitationResponseViewModel.cs",
+              "RelativeDocumentMoniker": "PartyApp\\Models\\ViewModels\\InvitationResponseViewModel.cs",
+              "ToolTip": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Models\\ViewModels\\InvitationResponseViewModel.cs",
+              "RelativeToolTip": "PartyApp\\Models\\ViewModels\\InvitationResponseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:47:14.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PartyDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Models\\ViewModels\\PartyDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "PartyApp\\Models\\ViewModels\\PartyDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Models\\ViewModels\\PartyDetailsViewModel.cs",
+              "RelativeToolTip": "PartyApp\\Models\\ViewModels\\PartyDetailsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:46:35.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "InvitationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Models\\ViewModels\\InvitationViewModel.cs",
+              "RelativeDocumentMoniker": "PartyApp\\Models\\ViewModels\\InvitationViewModel.cs",
+              "ToolTip": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Models\\ViewModels\\InvitationViewModel.cs",
+              "RelativeToolTip": "PartyApp\\Models\\ViewModels\\InvitationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:46:19.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PartyViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Models\\ViewModels\\PartyViewModel.cs",
+              "RelativeDocumentMoniker": "PartyApp\\Models\\ViewModels\\PartyViewModel.cs",
+              "ToolTip": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Models\\ViewModels\\PartyViewModel.cs",
+              "RelativeToolTip": "PartyApp\\Models\\ViewModels\\PartyViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:45:57.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PartyApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PartyApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:44:56.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Invitation.cs",
+              "DocumentMoniker": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Models\\Entities\\Invitation.cs",
+              "RelativeDocumentMoniker": "PartyApp\\Models\\Entities\\Invitation.cs",
+              "ToolTip": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Models\\Entities\\Invitation.cs",
+              "RelativeToolTip": "PartyApp\\Models\\Entities\\Invitation.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:43:51.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Party.cs",
+              "DocumentMoniker": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Models\\Entities\\Party.cs",
+              "RelativeDocumentMoniker": "PartyApp\\Models\\Entities\\Party.cs",
+              "ToolTip": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Models\\Entities\\Party.cs",
+              "RelativeToolTip": "PartyApp\\Models\\Entities\\Party.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:42:57.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "InvitationStatus.cs",
+              "DocumentMoniker": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Models\\Entities\\InvitationStatus.cs",
+              "RelativeDocumentMoniker": "PartyApp\\Models\\Entities\\InvitationStatus.cs",
+              "ToolTip": "C:\\Users\\cyril\\Desktop\\PartyApp\\PartyApp\\Models\\Entities\\InvitationStatus.cs",
+              "RelativeToolTip": "PartyApp\\Models\\Entities\\InvitationStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:42:18.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

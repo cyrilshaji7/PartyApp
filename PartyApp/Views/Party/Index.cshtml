@@ -1,0 +1,50 @@
+﻿@model IEnumerable<PartyInvitationManager.Models.Entities.Party>
+
+@{
+    ViewData["Title"] = "All Parties";
+}
+
+<h1>All Parties</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New Party</a>
+</p>
+
+@if (Model.Any())
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(model => model.Description)</th>
+                <th>@Html.DisplayNameFor(model => model.EventDate)</th>
+                <th>@Html.DisplayNameFor(model => model.Location)</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.Description)</td>
+                    <td>@item.EventDate.ToShortDateString()</td>
+                    <td>@Html.DisplayFor(modelItem => item.Location)</td>
+                    <td>
+                        <div class="btn-group">
+                            <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info btn-sm">Details</a>
+                            <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning btn-sm">Edit</a>
+                            <form asp-action="Delete" asp-route-id="@item.Id" method="post" style="display:inline">
+                                <button type="submit" class="btn btn-danger btn-sm" onclick="return confirm('Are you sure you want to delete this party?')">Delete</button>
+                            </form>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <div class="alert alert-info">
+        No parties found. Click on "Create New Party" to get started.
+    </div>
+}
